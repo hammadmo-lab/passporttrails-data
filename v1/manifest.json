@@ -1,7 +1,8 @@
 {
-  "last_updated": "2026-10-26",
+  "last_updated": "2026-11-17",
+  "min_schema": 1,
   "files": {
-    "destinations": "2026-10-26/destinations.json",
-    "visa_rules": "2026-10-26/visa_rules.json"
+    "destinations": "2026-11-17/destinations.json",
+    "visa_rules": "2026-11-17/visa_rules.json"
   }
 }
